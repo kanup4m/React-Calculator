@@ -10,7 +10,7 @@ Functional calculator built in React, styled using Sass.
 ![alt text](preview.png "Preview Image")
 ## Installation: 
 ```
-git clone https://github.com/jarodburchill/calculator-react-app
+git clone https://github.com/kanup4m/React-Calculator
 cd calculator-react-app
 npm install
 npm start
